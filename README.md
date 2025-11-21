@@ -3,7 +3,7 @@
 A simple Streamlit web app that uses Google's Gemini AI to analyze images and generate creative content based on them.
 ## 🚀 Demo
 
-[![Demo](https://img.shields.io/badge/Demo-Live-green)]((https://image-to-story-generator-4lrh5nz59bc2owirbesv4n.streamlit.app/))
+[![Demo](https://img.shields.io/badge/Demo-Live-green)](https://image-to-story-generator-4lrh5nz59bc2owirbesv4n.streamlit.app/)
 ## What does it do?
 
 Upload any image and the app will:
